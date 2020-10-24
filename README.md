@@ -6,7 +6,7 @@
 
 <details style='text-align: center;' align='center'>
 <summary> Python <3 </summary>
-</a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <\a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinGodDev&layout=compact" alt="XinGodDev" /></p>
 
