@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xin</h1>
 
-- 🔭 I’m currently working on **XSPAM Raid Tool**
+- 🔭 I’m currently working on **Nothing**
 
 - 📫 How to reach me **Discord at ឵?#5870**
 
