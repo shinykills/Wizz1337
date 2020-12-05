@@ -11,3 +11,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinGodDev&layout=compact" alt="XinGodDev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XinGodDev&show_icons=true" alt="XinGodDev" /></p>
+
+// updated
