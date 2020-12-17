@@ -8,7 +8,7 @@
 <summary> Python <3 </summary>
 <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinGodDev&layout=compact" alt="XinGodDev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinGodDev" alt="XinGodDev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XinGodDev&show_icons=true" alt="XinGodDev" /></p>
 
