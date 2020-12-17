@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xin</h1>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Discord Account Creator v2 (v1 in my youtube channel)**
 
 - 📫 How to reach me **Discord at ឵?#5870**
 
