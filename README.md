@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Discord Account Creator v3 (v2 in my youtube channel)**
 
-- 📫 How to reach me **Discord at >_Xin.Vipexs#1234**
+- 📫 How to reach me **Discord at >_Xin#7777 or .gg/2pAKGxDGSH**
 
 - 💈 my github goals **Get 50 follower / Make all discord tool**
 
