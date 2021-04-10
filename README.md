@@ -14,7 +14,7 @@
 	    <tbody>
 	        <tr>
 	            <td align="left"><a href="http://youtube.com/c/xingod" target="_blank">Click here</a></td>
-	            <td align="right">badaboum#1337</td>
+	            <td align="right">хıи"RCΛ#7777</td>
 	        </tr>
 	    </tbody>
 	</table align="center">
