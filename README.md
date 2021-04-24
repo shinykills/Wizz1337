@@ -23,5 +23,5 @@
 <p align="center"> 
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp; |
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></code>&nbsp; |
-  <code><img height="25" src="https://camo.githubusercontent.com/155b885cab9e4e955497fd71843b41a636cebe2842c4ede7c8ee6a5bcfe9792a/68747470733a2f2f696d67312e66726565706e672e66722f32303138303530332f6473712f6b697373706e672d636173636164696e672d7374796c652d7368656574732d637373332d626f6f7473747261702d76616c69642d35616561663832613965323732332e313230373630303831353235333438333934363437382e6a7067"></code>&nbsp;
+  <code><img height="25" src="https://img2.freepng.fr/20180816/rcw/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg"></code>&nbsp;
 </p>
