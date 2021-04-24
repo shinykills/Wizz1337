@@ -22,5 +22,6 @@
 
 <p align="center"> 
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp; |
-  <code><img height="25" src="https://guillaume-richard.fr/wp-content/uploads/2020/05/html5-css3.jpg"></code>&nbsp; |
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></code>&nbsp; |
+  <code><img height="25" src="https://img1.freepng.fr/20180420/gte/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20bdc01225.3371933415242446697867.jpg"></code>&nbsp;
 </p>
