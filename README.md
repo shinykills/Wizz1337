@@ -20,4 +20,7 @@
 	</table align="center">
 </p>
 
-<h1 align="center">[+]───────────────<a><img src="https://camo.githubusercontent.com/c941c038e9963f2716177d41cc02ad0d9c41fe0481ec188836b6303572b586d7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3130323470782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67"/></a>───────────────[+]</h1>
+<p align="center"> 
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp; |
+  <code><img height="25" src="https://guillaume-richard.fr/wp-content/uploads/2020/05/html5-css3.jpg"></code>&nbsp; |
+</p>
