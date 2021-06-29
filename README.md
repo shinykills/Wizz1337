@@ -13,7 +13,7 @@
 	    <tbody>
 	        <tr>
 	            <td align="left"><a href="http://youtube.com/c/xingod" target="_blank">Click here</a></td>
-	            <td align="right">хıи'GЗNIUS#1337</td>
+	            <td align="right">wlh c xin#6666</td>
 	        </tr>
 	    </tbody>
 	</table align="center">
