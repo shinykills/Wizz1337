@@ -1,7 +1,3 @@
-
-
-<h1 align="center">[+]───────────────<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXinGodDev%2FXinGodDev&count_bg=%2323272A&title_bg=%2323272A&icon=discord.svg&icon_color=%237289DA&title=Views&edge_flat=true"/></a>───────────────[+]</h1>
-
 <p align="center">
 	<table align="center">
 	    <thead>
