@@ -12,7 +12,7 @@
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td align="left"><a href="t.me/wizz1337" target="_blank">Click here</a></td>
+	            <td align="right">Wizz1337</td>
 	            <td align="right">Ｗｉｚｚ#1337</td>
 	        </tr>
 	    </tbody>
