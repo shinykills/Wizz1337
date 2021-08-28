@@ -6,14 +6,14 @@
 	<table align="center">
 	    <thead>
 	        <tr>
-	            <th align="center">YouTube 💗</th>
+	            <th align="center">Telegram 💗</th>
 	            <th align="center">Discord 💜</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td align="left"><a href="http://youtube.com/c/xingod" target="_blank">Click here</a></td>
-	            <td align="right">wlh c xin#6666</td>
+	            <td align="left"><a href="t.me/wizz1337" target="_blank">Click here</a></td>
+	            <td align="right">Ｗｉｚｚ#1337</td>
 	        </tr>
 	    </tbody>
 	</table align="center">
