@@ -9,7 +9,7 @@
 	    <tbody>
 	        <tr>
 	            <td align="right">Wizz1337</td>
-	            <td align="right">Ｗｉｚｚ#1337</td>
+	            <td align="right">wizz#1337</td>
 	        </tr>
 	    </tbody>
 	</table align="center">
