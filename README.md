@@ -7,7 +7,7 @@
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td align="right">xinそ#1337</td>
+	            <td align="right">xin#1337</td>
 	        </tr>
 	    </tbody>
 	</table align="center">
